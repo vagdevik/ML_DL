@@ -5,3 +5,4 @@ bye
  filter=lfs diff=lfs merge=lfs -text
 Coursera/projects/Week/[[:space:]]3/Trigger/[[:space:]]word/[[:space:]]detection/*.npy filter=lfs diff=lfs merge=lfs -text
 data filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text
